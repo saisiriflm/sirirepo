@@ -1,0 +1,7 @@
+<router-outlet></router-outlet>
+<!--<app-editprofile></app-editprofile>-->
+<!--<app-view-package></app-view-package>-->
+<!--<app-accomodation></app-accomodation>-->
+<!--<app-register></app-register>-->
+<!--<app-login></app-login>-->
+<!--<app-book-package></app-book-package>-->
